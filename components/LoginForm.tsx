@@ -112,7 +112,7 @@ const LoginForm = () => {
         ) : (
           <>
             <Image
-              src="/googlelogosvg.webp"
+              src="/google-logo.png"
               alt="Google logo"
               width={30}
               height={30}
