@@ -294,7 +294,7 @@ export default function Feed() {
 
   return (
     <div className="max-w-2xl mx-auto py-8 px-4 space-y-8">
-      <FloatingNav navItems={navItems} />
+      
 
       {isOffline && (
         <div className="flex items-center justify-center gap-2 bg-yellow-500/10 text-yellow-500 p-4 rounded-lg mb-8">
